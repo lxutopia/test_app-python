@@ -1,5 +1,9 @@
 import sys, getopt
 
+###############
+#  By Lexx Damm
+###############
+
 helpMessage = """
 Just a test app, using Python 3
 """
